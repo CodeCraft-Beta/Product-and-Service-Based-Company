@@ -9,7 +9,7 @@ This is Product-and-Service-Based-Company Website Template. I am make Following 
 
 Watch more Website Template in my Website.
 
-**Live Demo** - https://codecraft-beta.github.io/Hiking-Life/
+**Live Demo** - https://codecraft-beta.github.io/Product-and-Service-Based-Company/
 
 **Website View** - https://designcraft.odoo.com/netflix-clone
 
