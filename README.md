@@ -1,11 +1,19 @@
 # Product-and-Service-Based-Company
 This is Product-and-Service-Based-Company Website Template. I am make Following Section in this Website.
 
-+ **PORTFOLIO**
++ **Home**
 
-+ **ABOUT**
++ **Features**
 
-+ **CONTACT**
++ **About Us**
+
++ **Services**
+
++ **Portfolio**
+
++ **Services**
+
++ **Team**
 
 Watch more Website Template in my Website.
 
